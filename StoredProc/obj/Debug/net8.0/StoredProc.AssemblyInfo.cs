@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StoredProc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fe4aae90307bf2810ff5b4c52668bf8a7167e5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0b3f5e0882251c28783acbd367ddfb664feac5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("StoredProc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StoredProc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
