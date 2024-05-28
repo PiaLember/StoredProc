@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/pial/Desktop/THK/Andmebaasid/StoredProcTARge23/StoredProc/StoredProc
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/pial/Desktop/THK/Andmebaasid/StoredProcTARge23/StoredProc/StoredProc/Views/Employee/DynamicSQL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvRHluYW1pY1NRTC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pial/Desktop/THK/Andmebaasid/StoredProcTARge23/StoredProc/StoredProc/Views/Employee/DynamicSQLInStoredProcedure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvRHluYW1pY1NRTEluU3RvcmVkUHJvY2VkdXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/pial/Desktop/THK/Andmebaasid/StoredProcTARge23/StoredProc/StoredProc/Views/Employee/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
